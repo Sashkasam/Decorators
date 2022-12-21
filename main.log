@@ -1,0 +1,20 @@
+Date/time: 2022-12-21 23:23:26.946398
+Name: hello_world
+Arguments: () и {}
+Result: Hello World
+Date/time: 2022-12-21 23:23:26.946398
+Name: summator
+Arguments: (2, 2) и {}
+Result: 4
+Date/time: 2022-12-21 23:23:26.946398
+Name: div
+Arguments: (6, 2) и {}
+Result: 3.0
+Date/time: 2022-12-21 23:23:26.946398
+Name: summator
+Arguments: (4.3,) и {'b': 2.2}
+Result: 6.5
+Date/time: 2022-12-21 23:23:26.947395
+Name: summator
+Arguments: () и {'a': 0, 'b': 0}
+Result: 0
